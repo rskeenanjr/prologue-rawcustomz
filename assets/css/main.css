@@ -1755,13 +1755,13 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 0px;
+			width: auto;
 			height: 48px;
 			background: #f00;
 		}
 
 			.image.avatar48 img {
-				width: 0px;
+				width: auto;
 				height: 48px;
 			}
 
