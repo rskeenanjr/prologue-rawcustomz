@@ -1761,7 +1761,7 @@ input, select, textarea {
 		}
 
 			.image.avatar48 img {
-				width: 200px;
+				width: 0px;
 				height: 48px;
 			}
 
