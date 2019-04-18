@@ -1761,7 +1761,7 @@ input, select, textarea {
 		}
 
 			.image.avatar48 img {
-				width: inherit;
+				width: 200px;
 				height: 48px;
 			}
 
